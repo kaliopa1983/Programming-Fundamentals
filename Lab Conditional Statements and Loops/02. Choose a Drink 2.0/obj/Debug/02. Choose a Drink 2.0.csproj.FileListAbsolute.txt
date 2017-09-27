@@ -1,0 +1,9 @@
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.exe.config
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.exe
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.pdb
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\02. Choose a Drink 2.0\obj\Debug\02. Choose a Drink 2.0.csprojResolveAssemblyReference.cache
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\02. Choose a Drink 2.0\obj\Debug\_02.Choose_a_Drink_2._0.exe
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\02. Choose a Drink 2.0\obj\Debug\_02.Choose_a_Drink_2._0.pdb
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.exe.config
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\02. Choose a Drink 2.0\obj\Debug\_02.Choose_a_Drink_2._0.exe
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\02. Choose a Drink 2.0\obj\Debug\_02.Choose_a_Drink_2._0.pdb

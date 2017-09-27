@@ -1,0 +1,12 @@
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\04. Hotel\bin\Debug\_04.Hotel.exe.config
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\04. Hotel\bin\Debug\_04.Hotel.exe
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\04. Hotel\bin\Debug\_04.Hotel.pdb
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\04. Hotel\obj\Debug\04. Hotel.csprojResolveAssemblyReference.cache
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\04. Hotel\obj\Debug\_04.Hotel.exe
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\04. Hotel\obj\Debug\_04.Hotel.pdb
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe.config
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\_04.Hotel.exe
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\_04.Hotel.pdb
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.pdb
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\04. Hotel.csprojResolveAssemblyReference.cache

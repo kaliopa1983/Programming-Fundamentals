@@ -1,0 +1,9 @@
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe.config
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\05. Word in Plural\bin\Debug\_05.Word_in_Plural.pdb
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\05. Word in Plural\obj\Debug\05. Word in Plural.csprojResolveAssemblyReference.cache
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\05. Word in Plural\obj\Debug\_05.Word_in_Plural.exe
+c:\users\danail\documents\visual studio 2015\Projects\Solution1\05. Word in Plural\obj\Debug\_05.Word_in_Plural.pdb
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe.config
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\_05.Word_in_Plural.exe
+C:\Users\Danail\Documents\Visual Studio 2015\Projects\Programming Fundamentals\C# Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\_05.Word_in_Plural.pdb
